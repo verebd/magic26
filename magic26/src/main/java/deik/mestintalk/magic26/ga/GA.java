@@ -9,7 +9,7 @@ import deik.mestintalk.magic26.instance.*;
 /**
  * GA is a class for the genetic algorithm implementation.
  * 
- * @author Dóra Veréb
+ * @author Dora Vereb
  *
  */
 

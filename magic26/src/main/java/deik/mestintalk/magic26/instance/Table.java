@@ -10,7 +10,7 @@ import java.util.Random;
 /**
  * Table is a class which contains fields and methods for the fitness, crossing and mutate tables.
  * 
- * @author Dóra Veréb
+ * @author Dora Vereb
  *
  */
 public class Table implements Instance, InstanceFactory {
